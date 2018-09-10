@@ -10,8 +10,15 @@ hoisting.js  ->  eksempler på Hoisting af variabler og funktioner samt brugen a
 
 IIFE.js  ->  Immediately-invoked function expression samt eksempler på Module Patterns.
 
-objects.js  ->  How to define objects and use of this.
+objects.js  ->  Definering af objekter og brugen af this i denne sammenhæng.
 
-this.js  ->  Examples of different uses of this and 'use strict' in this context.
+this.js  ->  Eksempler på forskellig brug af this og brugen af 'use strict' i sammenhæng med this.
+
+----
+
+promiseEx1a.js  ->  Eksempel på The Callback Hell  (“Pyramid of Doom")
+
+serialParallel.js  ->  Hvordan man kører asynchronous (promise-based) kode serialt eller parallelt
+
 
  
