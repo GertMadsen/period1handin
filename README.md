@@ -18,7 +18,12 @@ this.js  ->  Eksempler på forskellig brug af this og brugen af 'use strict' i s
 
 promiseEx1a.js  ->  Eksempel på The Callback Hell  (“Pyramid of Doom")
 
-serialParallel.js  ->  Hvordan man kører asynchronous (promise-based) kode serialt eller parallelt
+promiseDemo  ->  Promise factory.
 
+asyncEx1.js  ->  Eksempel på serial og parallel kørsel af promises uden brug af promise.all
 
- 
+serialParallel.js  ->  Hvordan man kører asynchronous (promise-based) kode serialt eller parallelt med brug af promise.all
+
+asyncEx2.js  ->  Eksempel på hvordan man laver sin egen promise - samt promise error håndtering.
+
+asyncEx3.js  ->  Brug af chaining promises ved hjælp af async/await og hvordan man håndterer error med try-catch.
