@@ -18,9 +18,12 @@ useModule.js  -->  Et script som importerer og anvender dette node module.
 
 ----
 
-promiseEx1a.js  ->  Eksempel på The Callback Hell  (“Pyramid of Doom")
+callbackHell.js  ->  Eksempel på The Callback Hell  (“Pyramid of Doom") 
+                    og hvordan error bliver håndteret med callbacks af typen cb(err,data)
 
-promiseDemo  ->  Promise factory. (Også et eksempel på et node module)
+promiseFactory  ->  Promise factory. (Også et eksempel på et node module)
+
+promiseTester  -->  Anvender promise factory og demonstrerer hvordan man håndterer errors med .catch
 
 asyncEx1.js  ->  Eksempel på serial og parallel kørsel af promises uden brug af promise.all
 
