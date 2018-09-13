@@ -1,4 +1,4 @@
-# Kode-eksempler til brug ved eksamen - Periode 1:
+# Kode-eksempler fra Periode 1 til brug ved eksamen:
 
 ----
 ### Vanilla JavaScript:
