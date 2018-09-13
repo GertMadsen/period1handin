@@ -1,7 +1,7 @@
 # Kode-eksempler til brug ved eksamen - Periode 1:
 
 ----
-# Vanilla JavaScript:
+### Vanilla JavaScript:
 
 callback.js  ->  map, filter og reduce eksempler samt egne versioner af Callbacks som virker tilsvarende. Også eksempel på Prototyping.
 ( callbacktest.html  ->  demo af metode i callback.js )
@@ -20,7 +20,7 @@ module.js  -->  Et simpelt node module.
 useModule.js  -->  Et script som importerer og anvender dette node module.
 
 ----
-# Promises + Async/await:
+### Promises + Async/await:
 
 callbackHell.js  ->  Eksempel på The Callback Hell  (“Pyramid of Doom") 
                     og hvordan error bliver håndteret med callbacks af typen cb(err,data)
@@ -38,7 +38,7 @@ asyncEx2.js  ->  Eksempel på hvordan man laver sin egen promise - samt promise 
 asyncEx3.js  ->  Brug af chaining promises ved hjælp af async/await og hvordan man håndterer error med try-catch.
 
 ----
-# ES2015:
+### ES2015:
 
 let.js  ->  Forskellen på var og let.
 
@@ -51,7 +51,7 @@ thisExtra.js  -->  Problmer med this i forbindelse med arrow funktioner.
 deconstruction.js  -->  Hvordan man benytter decontruction til at deklarere variable m.m.
 
 ----
-# WebPack, Babel, TypeScript:
+### WebPack, Babel, TypeScript:
 
 ES6_Inherance.js  -->  ES2015 Inherance i klasser.
 
