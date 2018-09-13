@@ -46,7 +46,11 @@ deconstruction.js  -->  Hvordan man benytter decontruction til at deklarere vari
 
 Webpack_Module  -->  Webpack bundle som også indholder eksemepel på import/export syntax af modul.
 
+Webpack-Table-Exercise  -->  Webpack/Babel demo som også anvender lodash modulet.
+
 Generic_Logger  -->  TypeScript eksempel med en logger klasse som anvender generiske typer.
+
+ES6_Inherance.js  -->  ES2015 Inherance i klasser.
 
 ----
 
