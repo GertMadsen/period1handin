@@ -24,9 +24,9 @@
 
 **callbackHell.js**  ->  Eksempel på The Callback Hell  (“Pyramid of Doom") og hvordan error bliver håndteret med callbacks af typen cb(err,data)
 
-**promiseFactory**  ->  Promise factory. (Også et eksempel på et node module)
+**promiseFactory.js**  ->  Promise factory. (Også et eksempel på et node module)
 
-**promiseTester**  -->  Anvender promise factory og demonstrerer hvordan man håndterer errors med .catch
+**promiseTester.js**  -->  Anvender promise factory og demonstrerer hvordan man håndterer errors med .catch
 
 **asyncEx1.js**  ->  Eksempel på serial og parallel kørsel af promises uden brug af promise.all
 
