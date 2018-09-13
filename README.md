@@ -34,7 +34,7 @@
 
 **serialParallel.js**  ->  Hvordan man kører asynchronous (promise-based) kode serialt eller parallelt med brug af promise.all
 
-**vasyncEx2.js**  ->  Eksempel på hvordan man laver sin egen promise - samt promise error håndtering.
+**asyncEx2.js**  ->  Eksempel på hvordan man laver sin egen promise - samt promise error håndtering.
 
 **asyncEx3.js**  ->  Brug af chaining promises ved hjælp af async/await og hvordan man håndterer error med try-catch.
 
