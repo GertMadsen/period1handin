@@ -1,4 +1,4 @@
-# Opgaver til brug som eksempler til eksamen - Periode 1:
+# Kode-eksempler til brug ved eksamen - Periode 1:
 
 callback.js  ->  map, filter og reduce eksempler samt egne versioner af Callbacks som virker tilsvarende. Også eksempel på Prototyping.
 ( callbacktest.html  ->  demo af metode i callback.js )
