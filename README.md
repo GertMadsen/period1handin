@@ -20,7 +20,7 @@ useModule.js  -->  Et script som importerer og anvender dette node module.
 
 promiseEx1a.js  ->  Eksempel på The Callback Hell  (“Pyramid of Doom")
 
-promiseDemo  ->  Promise factory.
+promiseDemo  ->  Promise factory. (Også et eksempel på et node module)
 
 asyncEx1.js  ->  Eksempel på serial og parallel kørsel af promises uden brug af promise.all
 
@@ -31,4 +31,21 @@ asyncEx2.js  ->  Eksempel på hvordan man laver sin egen promise - samt promise 
 asyncEx3.js  ->  Brug af chaining promises ved hjælp af async/await og hvordan man håndterer error med try-catch.
 
 ----
+
+let.js  ->  Forskellen på var og let.
+
+rest.js  -->  Eksempler på brug af rest parametre.
+
+arrow.js  -->  Hvordan man kan benytte arrow notation.
+
+thisExtra.js  -->  Problmer med this i forbindelse med arrow funktioner.
+
+deconstruction.js  -->  Hvordan man benytter decontruction til at deklarere variable m.m.
+
+webpack_module_demo  -->  webpack bundle som også indholder eksemepel på import/export syntax af modul.
+
+----
+
+
+
 
