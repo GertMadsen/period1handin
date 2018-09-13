@@ -4,7 +4,8 @@
 ### Vanilla JavaScript:
 
 **callback.js**  ->  map, filter og reduce eksempler samt egne versioner af Callbacks som virker tilsvarende. Også eksempel på Prototyping.
-**callbacktest.html**  ->  demo af metode i callback.js
+
+**callbacktest.html**  ->  demo af metode fra callback.js
 
 **closures.js**  ->  eksempler på Closures (private variable) og på Module Patterns.
 
@@ -17,7 +18,8 @@
 **this.js** ->  Eksempler på forskellig brug af this og brugen af 'use strict' i sammenhæng med this.
 
 **module.js**  -->  Et simpelt node module.
-**useModule.js**  -->  Et script som importerer og anvender dette node module.
+
+**useModule.js**  -->  Et script som importerer og anvender dette node module (module.js).
 
 ----
 ### Promises + Async/await:
