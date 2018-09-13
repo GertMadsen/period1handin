@@ -1,3 +1,5 @@
+"use strict";
+
 // Hoisting of varibles:
 
 x = 5; 
@@ -24,12 +26,11 @@ var notHoisted = function() {
 
 // When 'use strict' is used - variables has to be declared before you can assign value.
 
-"use strict";
-var x;
-x = 3.14;
+var a;
+a = 3.14;
 
-// var y;
-y = 2*x; // This will generate error because y is not declared.
+var b;  //Kommenter dette ud.
+b = 2*a; // This will generate error because y is not declared.
 
 
 
