@@ -46,7 +46,7 @@ deconstruction.js  -->  Hvordan man benytter decontruction til at deklarere vari
 
 Webpack_Module  -->  Webpack bundle som også indholder eksemepel på import/export syntax af modul.
 
-Generic_Logger  -->  Webpack bundle med en logger klasse som anvender generiske typer.
+Generic_Logger  -->  TypeScript eksempel med en logger klasse som anvender generiske typer.
 
 ----
 
