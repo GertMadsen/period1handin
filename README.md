@@ -22,8 +22,7 @@ useModule.js  -->  Et script som importerer og anvender dette node module.
 ----
 ### Promises + Async/await:
 
-callbackHell.js  ->  Eksempel på The Callback Hell  (“Pyramid of Doom") 
-                    og hvordan error bliver håndteret med callbacks af typen cb(err,data)
+* callbackHell.js  ->  Eksempel på The Callback Hell  (“Pyramid of Doom") og hvordan error bliver håndteret med callbacks af typen cb(err,data)
 
 promiseFactory  ->  Promise factory. (Også et eksempel på et node module)
 
