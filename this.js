@@ -27,7 +27,11 @@ function f2() {
     return this;
 }
 
-console.log(f2() === undefined); // true
+var f3 = f2.bind("test")
+
+console.log(f2())
+console.log("")
+console.log(f3())
 
 
 // Using bind on function
